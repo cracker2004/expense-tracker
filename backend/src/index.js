@@ -10,7 +10,9 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
-    'https://frontend-wine-theta-3b7ccab43x.vercel.app'
+    'https://frontend-wine-theta-3b7ccab43x.vercel.app',
+    'https://expense-tracker-six-ashen-93.vercel.app',
+    'https://expense-tracker-h1kdhabki-rohit-bansals-projects-423484df.vercel.app'
   ],
   credentials: true
 }));
